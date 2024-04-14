@@ -1,6 +1,6 @@
 namespace APBD5;
 
-public class VetVisit
+public class Visit
 {
     public DateTime Date { get; set; }
     public int AnimalId { get; set; }

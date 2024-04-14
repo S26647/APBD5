@@ -1,4 +1,3 @@
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace APBD5.Controllers;
@@ -67,3 +66,4 @@ public class AnimalController : ControllerBase
         return NoContent();
     }
 }
+
